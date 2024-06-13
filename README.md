@@ -25,3 +25,13 @@ The dataset is organized into directories, with annotations provided in JSON and
 ## Usage
 
 To use this dataset, clone the repository and load the transcripts and annotations into your analysis tool of choice.
+
+# Conversational Interfaces: Practice
+This repository is made for the Conversational Interfaces: Practice study on clarfication dialogues. 
+
+*Contributors:* \
+Ivo Bruinier \
+Niels Top \
+Adelina Dinu \
+Joris Ruitenbeek \
+Vivien ter Hell
