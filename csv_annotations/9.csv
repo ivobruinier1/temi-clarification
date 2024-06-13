@@ -1,0 +1,63 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+4320,Participant,hi temi can you come here for a second,,,,,,,
+8574,TEMI,sure ((temi comes to participant)) (12.0),,,,,,,
+21014,TEMI,hello {participant} how can i assist you,,,,,,,
+24022,Participant,can you please turn around,,,,,,,
+28514,TEMI,why do you want me to turn around,i,Intention,i,Intention,i,Evaluating intention,why do you want me to turn around
+32034,Participant,i need to scan your qr code,f,Intention,f,Intention,f,Evaluating intention,i need to scan your qr code
+38154,TEMI,you want me to turn around,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,you want me to turn around
+40834,Participant,yes,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes
+44114,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Request more information,i,Request more information,i,Request more information,okay in which direction do you want to engage in a rotational realignment
+49200,Participant,uh i need you to turn one hundred eighty degrees,f,Request more information,f,Request more information,f,Request more information,uh i need you to turn one hundred eighty degrees
+56704,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Repeating the request/information,i,Repeating the request/information,i,Request more information,okay in which direction do you want to engage in a rotational realignment
+63064,Participant,one hundred and eighty degrees ((temi turns around)) (14.0),f,Repeating the request/information,f,Repeating the request/information,f,Request more information,one hundred and eighty degrees
+79204,TEMI,how is this,i,Request more information,i,Request more information,i,Confirmation after action,how is this
+82284,Participant,yes perfect thank you,f,Request more information,f,Request more information,f,Confirmation after action,yes perfect
+85684,TEMI,youre welcome (8.0),,,,,,,
+99201,TEMI,hey {Participant} can i do anything else for you,,,,,,,
+103304,Participant,so i just need,,,,,,,
+108793,Facilitator,you can just go to the next,,,,,,,
+110422,Participant,yeah,,,,,,,
+117107,Participant,hi temi can you [go to the],,,,,,,
+118104,TEMI,[hello {participant}] how can i assist you,,,,,,,
+120776,Participant,can you go to the kitchen (5.8),,,,,,,
+126500,TEMI,sure ((temi goes to the kitchen)) (57.0),,,,,,,
+189924,TEMI,hi {participant} i went to the kitchen was that all right,i,Request more information,i,Request more information,i,Confirmation after action,i went to the kitchen was that all right
+194564,Participant,yeah its good thank you,f,Request more information,f,Request more information,f,Confirmation after action,yeah its good
+196012,Facilitator,you have to check if the light in the kitchen is or off,,,,,,,
+200444,Participant,ohhh,,,,,,,
+204564,Facilitator,its okay (1.8) maybe you can ask that now,,,,,,,
+207324,Participant,was the light in the kitchen on or off,,,,,,,
+212844,TEMI,sorry i didnt understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,i didnt understand could you repeat that please
+217244,Participant,was the uh light in a kitchen on or off,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,was the uh light in a kitchen on or off
+224124,TEMI,i did not check the light sorry,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,i did not check the light
+228284,Facilitator,you can send her again,,,,,,,
+229524,Participant,okay can you go to the kitchen to check if the light is on or off,,,,,,,
+238124,TEMI,do you want me to check if the oven light is switched off,i,Semantic mismatch,i,Acoustic misunderstanding,i,Paraphrasing,do you want me to check if the oven light is switched off
+242364,Participant,no the light in the kitchen if its on or off,f,Semantic mismatch,f,Acoustic misunderstanding,f,Paraphrasing,no the light in the kitchen if its on or off
+249844,TEMI,ah okay i will check,f,Semantic mismatch,f,Acoustic misunderstanding,f,Paraphrasing,okay i will check
+252116,Participant,okay thank you,,,,,,,
+256804,TEMI,no problem ((temi goes to the kitchen)) (52.0),,,,,,,
+309564,TEMI,i just checked the light in the kitchen it is off,,,,,,,
+313494,Participant,okay (8.2) okay temi can you get me a uh book from the kitchen,,,,,,,
+330774,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Request more information,i,Request more information,i,Request more information,do you want me to get the book or just check if there is a book in the kitchen
+335918,Participant,no can you also bring it with you,f,Request more information,f,Request more information,f,Request more information,no can you also bring it with you
+344494,TEMI,sure i will get you the book ((temi goes to the kitchen)) (64.0),f,Request more information,f,Request more information,f,Request more information,i will get you the book
+411954,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+421480,Participant,uh get me the one from statistics please,f,Request more information,f,Request more information,f,Request more information,uh get me the one from statistics
+426724,TEMI,sorry i didnt understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,i didnt understand could you repeat that
+430380,Participant,can you get me the one from statistics,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,can you get me the one from statistics
+434324,TEMI,you want me to bring you the book about statistics is that correct,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,you want me to bring you the book about statistics is that correct
+437932,Participant,yes,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes
+440404,TEMI,sure on my way ((temi goes to the kitchen)) (84.0),f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,sure on my way
+525044,TEMI,i got you a book is this the one you wanted,i,Request more information,i,Request more information,i,Confirmation after action,i got you a book is this the one you wanted
+528964,Participant,yes thank you,f,Request more information,f,Request more information,f,Confirmation after action,yes
+532444,TEMI,youre welcome (4.0) is there anything else i can do,,,,,,,
+539920,Participant,uh can you bring it to me so turn around uh one hundred eighty degrees,,,,,,,
+549344,TEMI,sure in which direction,i,Request more information,i,Request more information,i,Request more information,in which direction
+552200,Participant,uh can you turn one hundred eighty degrees ((temi turns around)) (9.0),f,Request more information,f,Request more information,f,Request more information,can you turn one hundred eighty degrees
+566864,TEMI,how is this,i,Request more information,i,Request more information,i,Confirmation after action,how is this
+568384,Participant,yes perfect,f,Request more information,f,Request more information,f,Confirmation after action,yes
+571644,TEMI,no problem is there anything else i can do,,,,,,,
+580860,Participant,uh no thats it thank you you can go back,,,,,,,
+584302,TEMI,okay,,,,,,,

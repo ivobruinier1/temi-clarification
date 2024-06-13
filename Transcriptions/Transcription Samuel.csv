@@ -1,0 +1,50 @@
+start (in ms),speaker,text
+880,Samuel,"Hey, Tammy, can you come here please?"
+6614,TEMI,Sure. Hi there. How can I help you?
+27314,Samuel,"Hey, uh, I need to see something on your backside. Can you please turn around 180 degrees?"
+39914,TEMI,You want me to turn around?
+42234,Samuel,"Yes, please."
+47034,TEMI,So you were saying I should rotate to the right?
+50594,Samuel,Yes.
+58334,TEMI,No problem.
+68494,Samuel,Can you turn a bit more? Perfect.
+84112,TEMI,How is this?
+86344,Samuel,That's good. Thanks.
+126140,UNIDENTIFIED,M.
+132704,Samuel,"Hey, Tammy. M. I'm not sure if the light is on in the kitchen. Can you please check that for me?"
+145064,TEMI,"Sorry, I didn't understand. Could you repeat that please?"
+151184,Samuel,"I am not sure if I left, uh, the light on in the kitchen. Can you check if the light is on in the kitchen for me, please?"
+163984,TEMI,Do you want me to check if the fridge is open in the kitchen?
+169024,Samuel,"No, I would like uh, for you to check if the light is on in the kitchen."
+177944,TEMI,Apologies. You want me to check if the kitchen light is switched off?
+182324,Samuel,"Yes, please."
+188244,TEMI,"Okay, I will check."
+189680,UNIDENTIFIED,Mhm. M.
+240084,TEMI,I just checked. The light in the kitchen is off.
+253044,Samuel,Thank you.
+254964,TEMI,Was that. Were you looking for?
+257044,Samuel,Yes. Thank you. And I have another task for you.
+260752,TEMI,No problem.
+264304,Samuel,Temi. In the kitchen there is a book. Can you please get that book for me?
+272704,TEMI,"Sorry, I didn't understand. Could you repeat that please?"
+277224,Samuel,Can you please get the book from the kitchen for me?
+282904,TEMI,Do you want me to get the book or just check if there is a book in the kitchen.
+287624,Samuel,I want you to get the book from the kitchen.
+296184,TEMI,"Okay, I will get you the book from the kitchen."
+315480,UNIDENTIFIED,Mhm.
+349154,TEMI,There are two books in the kitchen. One about statistics and one about robots. Which one do m you want?
+359154,Samuel,Can you bring them both?
+367454,TEMI,Do you want me to get both books?
+369758,Samuel,Yes.
+381614,TEMI,"Okay, I will give you both books from the kitchen."
+420620,UNIDENTIFIED,M. Mhm.
+452044,TEMI,I got you both books. Are these the books where you were looking for?
+457604,Samuel,I don't know. Can you come closer so I can grab the books from you?
+477464,TEMI,Sure. Is this close enough?
+479632,Samuel,"Yes. Great. Those are the, uh, correct books. Thank you."
+489352,TEMI,Is there anything else I can help you with?
+493924,Samuel,"No, that's all. You can go back to your position."
+500524,TEMI,"Sorry, I didn't understand. Could you repeat that please?"
+505724,Samuel,"That's all, Temmie. Thank you. You can go back to the corner of the room."
+513324,TEMI,Sure. Thank you.
+523206,Samuel,Struggling with your feet? Yes.

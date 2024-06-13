@@ -1,0 +1,63 @@
+start (in ms),speaker,text
+1880,Pascal,"Temmie, can you come over here?"
+25174,TEMI,"Hello, Pascal. How can I assist you?"
+28086,Pascal,Can m. You turn around? Can you turn around?
+43654,TEMI,Do you want me to turn the volume up?
+46814,Pascal,Can you rotate 180 degrees?
+53474,TEMI,Why do you want me to turn around?
+55954,Pascal,I need to scan a QR code on your back.
+62394,UNIDENTIFIED,Okay.
+63218,TEMI,In which direction do you want to engage in a rotational realignment?
+67954,Pascal,Left.
+77934,UNIDENTIFIED,Okay.
+78462,TEMI,Do you want me to turn to the left?
+80462,Pascal,Yes. Can m. You check whether the light is on in the kitchen?
+123074,TEMI,"Sorry, I didn't understand. Could you repeat that, please?"
+127554,Pascal,Can m. You check whether the light is on or off in the kitchen?
+143764,TEMI,Were you satisfied with my previous action?
+151204,Pascal,Yes.
+167024,TEMI,Is there anything else I can help you with?
+170184,Pascal,Can you check whether the light is on or off in the kitchen?
+179104,TEMI,Do you want me to check if the oven light is switched off.
+184924,Pascal,In the kitchen? Yes.
+189804,UNIDENTIFIED,Okay.
+206844,Pascal,That's pink. It.
+243824,TEMI,I just checked the fridge door is closed.
+249840,Pascal,"Uh, thank you. Okay. Saitan need oven light."
+258384,TEMI,Was that what you wanted?
+259896,Pascal,No.
+271014,UNIDENTIFIED,Sorry.
+271686,TEMI,Can I do anything for you?
+273814,Pascal,Can you go to the kitchen and check if the light is on?
+285214,TEMI,Should I check if the light is.
+286622,Pascal,On in the kitchen? Yes.
+295514,UNIDENTIFIED,Okay.
+296378,TEMI,I will check in the kitchen. Evil.
+316974,Pascal,"Supports. Now, Obdar."
+345914,TEMI,The kitchen light is switched off. Was that the information you were looking for?
+350754,Pascal,Yes.
+360034,TEMI,Are you happy now?
+361954,Pascal,Yes.
+366454,TEMI,No problem. Anything else I can do for you?
+380134,Pascal,Can you get a book from the kitchen?
+392994,UNIDENTIFIED,"Oh, giving it back."
+397434,UNIDENTIFIED,Sorry.
+398186,TEMI,I did not get that. Can you repeat that?
+401074,Pascal,Can you get a book from the kitchen?
+406354,TEMI,Do you want me to get the book or just check if there is a book in the kitchen?
+410146,Pascal,I want you to get the book.
+419454,UNIDENTIFIED,Okay.
+420310,TEMI,I get the book from the kitchen.
+462620,Pascal,M?
+469454,TEMI,There are two books in the kitchen. One about statistics and one about robots. Which one do you want?
+476454,Pascal,The one about statistics.
+483254,UNIDENTIFIED,Sorry.
+483926,TEMI,Can you repeat that?
+485118,Pascal,The one about statistics.
+493274,UNIDENTIFIED,Okay.
+494066,TEMI,I give you the statistics book.
+503474,Pascal,"Last thing, they did it."
+555874,TEMI,I got you the book. Is that what you wanted?
+558738,Pascal,Yes.
+569294,TEMI,Is there anything else I can help you with?
+572374,Pascal,"Not right now, no."

@@ -1,0 +1,90 @@
+start (in ms),speaker,text
+200,Paul,Okay.
+456,TEMI,I have to sit on the couch.
+2454,Paul,"Hey, Timmy, come over here."
+6734,UNIDENTIFIED,"Okay. Hello, Paul."
+25342,UNIDENTIFIED,How can I assist you?
+27294,Paul,Can you turn around for me?
+37414,UNIDENTIFIED,Do you want me to turn the volume up?
+39622,Paul,"No, no. Can you turn your back on me?"
+45894,UNIDENTIFIED,Why?
+46198,UNIDENTIFIED,Do you want me to turn around?
+47750,TEMI,So I can scan the QR code.
+50254,Paul,QR code?
+53154,UNIDENTIFIED,"Sorry, I didn't understand."
+55274,UNIDENTIFIED,"Could you repeat that, please?"
+59060,Paul,"Uh, I want to see the back of you."
+66754,UNIDENTIFIED,Okay.
+67578,UNIDENTIFIED,In which direction do you want to engage in a rotational realignment?
+71394,Paul,"To the left. To the left, please."
+78898,UNIDENTIFIED,Should I turn left?
+80148,Paul,Yes.
+83844,UNIDENTIFIED,Okay.
+93324,TEMI,Thanks.
+94604,Paul,"Oh, stop, please."
+100644,UNIDENTIFIED,How was this?
+103164,Paul,"Can you do it? Yeah, k do it once. K. Turn around, uh, for the second time."
+118054,UNIDENTIFIED,"Oh, you mean I should rotate 180 degrees?"
+120982,Paul,"No, 90. 90 degrees, please."
+136673,UNIDENTIFIED,How is this?
+137569,Paul,Thank you. It's okay.
+142433,UNIDENTIFIED,You're welcome.
+155393,UNIDENTIFIED,Complete.
+155410,UNIDENTIFIED,Uh.
+158404,Paul,"Okay. Hey, Tammy, do you know what a kitchen is?"
+179284,UNIDENTIFIED,You mean the kitchen in this hallway?
+181156,Paul,"Yeah. Yeah, this kitchen. I want you to."
+186024,UNIDENTIFIED,"Yes, I know that one."
+187608,Paul,"Okay. Can you check for me, uh."
+192544,TEMI,If the lights are on or off?
+197984,UNIDENTIFIED,"Sorry, I didn't understand."
+200064,UNIDENTIFIED,"Could you repeat that, please?"
+202144,Paul,Can you check for me if the light is on in the kitchen?
+208284,UNIDENTIFIED,Do you want me to check if the oven is off?
+213324,Paul,"I, uh, want you to check, uh, if the light is working in the kitchen?"
+219804,UNIDENTIFIED,Apologies. You want me to check if the kitchen light is switched off?
+223868,Paul,Yeah. Yes.
+227164,UNIDENTIFIED,Yes.
+230244,Paul,Yes. Can I check it for me?
+234864,UNIDENTIFIED,"Okay, I will check."
+291184,UNIDENTIFIED,The kitchen light has switched off. Was that the information you were looking for?
+295696,Paul,Yes. Thank you.
+304184,UNIDENTIFIED,You're welcome. Is there anything else I can help you with?
+309904,Paul,"Yeah, there's. In the kitchen, there's a. I left a book. Can you get it for me?"
+320984,UNIDENTIFIED,Do you want me to get the.
+322120,UNIDENTIFIED,Book or just check if there is a book in the kitchen?
+324424,Paul,"Yeah. Yes, please."
+336664,UNIDENTIFIED,Do you want me to get the.
+337800,UNIDENTIFIED,Book or just check if there is a book in the kitchen.
+340392,Paul,"Well, I want you to get it. I want to have it."
+347704,UNIDENTIFIED,"Okay, I will get the book."
+409764,UNIDENTIFIED,There are two books in the kitchen.
+411900,UNIDENTIFIED,One about statistics and one about robots. Which one do you want?
+417070,Paul,"Uh, get them both. So can you get them both?"
+425934,UNIDENTIFIED,You want me to get both?
+427494,Paul,Yes.
+429334,UNIDENTIFIED,"Sorry, I didn't understand."
+431454,UNIDENTIFIED,"Could you repeat that, please?"
+433182,Paul,Yes.
+433838,TEMI,I want you to get both.
+437374,UNIDENTIFIED,"Okay, I get both."
+442130,UNIDENTIFIED,Mhm. Mhm.
+495334,UNIDENTIFIED,Here is the book that you requested. Was this what you wanted?
+500354,Paul,Yeah. Thank you.
+504354,TEMI,"Oh, no, it's the other one."
+513354,UNIDENTIFIED,What book are you missing?
+519554,Paul,The other book.
+523794,UNIDENTIFIED,"Your meme, the robot book or the statistics book?"
+528274,Paul,The statistics book. That's the one I want.
+537114,UNIDENTIFIED,Are you missing the statistics book?
+539226,Paul,Yes.
+546354,UNIDENTIFIED,Do you want me to get the statistics book?
+548762,Paul,"Yes, please."
+556134,UNIDENTIFIED,Okay.
+556694,UNIDENTIFIED,I get the statistics book from the kitchen.
+573610,UNIDENTIFIED,Mhm. Mhm.
+618614,UNIDENTIFIED,Here is the statistics book. Is that what you wanted?
+625774,TEMI,"Yeah, that's the book. Thank you."
+629154,Paul,That's all for today.
+634554,UNIDENTIFIED,You're welcome. Is there anything else I can help you with?
+642626,Paul,"No, thank you. You can go back."

@@ -1,0 +1,64 @@
+start (in ms),speaker,text
+1920,Tian,"Hey, Timmy. Can you come here?"
+6734,TEMI,Sure.
+25254,UNIDENTIFIED,"Hello, Tien."
+26454,UNIDENTIFIED,How can I assist you?
+28014,Tian,Can you please turn around?
+29020,UNIDENTIFIED,"Uh, you want me to turn around?"
+35714,UNIDENTIFIED,Yes.
+39874,UNIDENTIFIED,Why do you want me to turn around?
+42074,Tian,"So that I can scan the QR codes on the back. Uh, yeah."
+50074,UNIDENTIFIED,Sorry.
+50778,UNIDENTIFIED,"I didn't understand. Could you repeat that, please, so that."
+54424,Tian,I can scan a QR code on the back.
+59704,UNIDENTIFIED,Okay. How is that?
+80044,Tian,Thank you.
+84204,UNIDENTIFIED,You're welcome.
+95404,Tian,Can you turn on the light in the kitchen?
+102604,UNIDENTIFIED,Do you want me to check if.
+103828,UNIDENTIFIED,The oven light is switched off?
+107814,UNIDENTIFIED,"Can you repeat it, please?"
+111414,UNIDENTIFIED,Do you want me to check if.
+112638,UNIDENTIFIED,The oven light is switched off?
+116054,Tian,"Uh, uh, no. I want you to turn on the light in the other room. In the kitchen."
+128334,UNIDENTIFIED,Sorry.
+129038,UNIDENTIFIED,I did not understand what you said.
+131182,UNIDENTIFIED,Could you please repeat that?
+133364,Tian,Can you turn on the light in the kitchen?
+142484,UNIDENTIFIED,"Okay, I will turn the light on."
+153004,Tian,Can I follow the robot?
+156744,UNIDENTIFIED,It.
+193604,UNIDENTIFIED,I just turned on all the lights.
+195716,UNIDENTIFIED,Is that what you requested?
+199124,Tian,Did you turn on all the lights in the kitchen?
+210624,UNIDENTIFIED,I turned on all the lights in the kitchen.
+213248,UNIDENTIFIED,Okay.
+213712,Tian,Thank you.
+216224,UNIDENTIFIED,You're welcome.
+219144,Tian,Can you get me a book from the kitchen?
+224144,UNIDENTIFIED,Do you want me to get the.
+225280,UNIDENTIFIED,Book or just check if there is.
+226488,UNIDENTIFIED,"A book in the kitchen, please?"
+229000,Tian,"Uh, get me the book from the kitchen."
+237164,UNIDENTIFIED,The book is in the kitchen.
+242484,Tian,"Can you get that book, uh, for me?"
+248844,TEMI,Sure.
+249628,UNIDENTIFIED,No problem.
+303484,UNIDENTIFIED,There are two books in the kitchen.
+305620,UNIDENTIFIED,One about statistics and one about robots.
+308524,UNIDENTIFIED,Which one do you want?
+311584,Tian,"I want a book about robots, please."
+316704,UNIDENTIFIED,You want me to bring you the book about robots?
+319048,UNIDENTIFIED,Is that correct?
+320216,UNIDENTIFIED,Yes.
+323424,UNIDENTIFIED,Okay.
+336440,UNIDENTIFIED,M.
+357460,UNIDENTIFIED,M.
+378504,UNIDENTIFIED,I got you the book. Was this the book you wanted?
+382664,UNIDENTIFIED,Yes.
+383232,Tian,Thank you.
+385584,UNIDENTIFIED,You're welcome.
+390164,UNIDENTIFIED,Is there anything else I can do?
+393404,Tian,"Uh, no."
+401524,UNIDENTIFIED,Okay.
+402348,UNIDENTIFIED,I go back then.

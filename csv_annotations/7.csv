@@ -1,0 +1,55 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+280,Participant,hi temi turn around please,,,,,,,
+7654,TEMI,you want me to turn around,,,,,,,
+10534,Participant,yes,,,,,,,
+15174,TEMI,why do you want me to turn around,i,Intention,i,Intention,i,Evaluating intention,why do you want me to turn around
+17934,Participant,hi temi please turn around and let me take a photo of your back,f,Intention,f,Intention,f,Evaluating intention,please turn around and let me take a photo of your back
+26354,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Request more information,i,Request more information,i,Request more information,okay in which direction do you want to engage in a rotational realignment
+32874,Participant,hi temi turn around on the right side,f,Request more information,f,Request more information,f,Request more information,turn around on the right side
+40274,TEMI,i will turn around ((temi turns around)) (7.0),,,f,Request more information,f,Request more information,i will turn around
+47274,TEMI,how is this {participant},i,Request more information,i,Request more information,i,Confirmation after action,how is this
+57734,Participant,sorry i didn't understand,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,i didn't understand
+63454,TEMI,how is this,i,Repeating the request/information,i,Acoustic misunderstanding,i,Confirmation after action,how is this
+65774,Participant,hi temi this is good,f,Repeating the request/information,f,Acoustic misunderstanding,f,Confirmation after action,this is good
+73734,TEMI,can i turn back already,,,,,,,
+80794,Participant,hey temi yes you can turn around,,,,,,,
+87594,TEMI,okay thank you,,,,,,,
+97954,Participant,hi temi,,,,,,,
+99010,TEMI,hey {participant} can i do anything else for you,,,,,,,
+102894,Participant,hey temi yes you can check if the light in the kitchen is on or off,,,,,,,
+117374,TEMI,do you want me to check if the fridge is open,i,Semantic mismatch,i,Acoustic misunderstanding,i,Paraphrasing,do you want me to check if the fridge is open
+119260,Participant,hey temi no hey temi i would like you to check if the lights in the kitchen are on or off,f,Semantic mismatch,f,Acoustic misunderstanding,f,Paraphrasing,no hey temi i would like you to check if the lights in the kitchen are on or off
+134563,TEMI,apologies you want me to check if the kitchen light is switched off,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,apologies you want me to check if the kitchen light is switched off
+143283,Participant,hi temi yes,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes
+149443,TEMI,sure i will check ((temi goes to the kitchen)) (47.0),f,Repeating the request/information,,,f,Confirmation before action ,sure i will check
+204124,TEMI,i just checked the kitchen light is off is that what you wanted to know,i,Request more information,i,Request more information,i,Confirmation after action,i just checked the kitchen light is off is that what you wanted to know
+209120,Participant,hi temi yes that's right thank you,f,Request more information,f,Request more information,f,Confirmation after action,yes that's right
+219234,TEMI,perfect is there anything else i can help you with,,,,,,,
+229554,Participant,hi temi yes i would like you to get a book out of the kitchen,,,,,,,
+238174,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,i didn't understand could you repeat that
+243254,Participant,hi temi i would like you to get a uh book out of the kitchen,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,i would like you to get a uh book out of the kitchen
+249814,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Request more information,i,Repeating the request/information,i,Request more information,do you want me to get the book or just check if there is a book in the kitchen
+254774,Participant,hi temi i would like you to bring me the book,f,Request more information,f,Repeating the request/information,f,Request more information,i would like you to bring me the book
+271513,TEMI,so to double check you want me to give you the book from the kitchen,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,to double check you want me to give you the book from the kitchen
+276505,Participant,hi temi yes,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes
+281673,TEMI,okay i will get you the book ((temi goes to the kitchen)) (47.0),f,Repeating the request/information,,,f,Confirmation before action ,okay i will get you the book
+336334,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+345654,Participant,hey temi please bring me the book about uh robotic,f,Request more information,f,Request more information,f,Request more information,please bring me the book about uh robotic
+353534,TEMI,you want me to bring you the book about robots is that correct,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,you want me to bring you the book about robots is that correct
+358126,Participant,hi temi yes this is correct,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes this is correct
+360974,TEMI,sure i'm on my way ((temi goes to the kitchen)) (55.0),,,,,,Confirmation before action ,sure
+423154,TEMI,i got you the robot book is this the one you requested,i,Request more information,i,Request more information,i,Confirmation after action,i got you the robot book is this the one you requested
+427954,Participant,hi temi yes thank you very much,f,Request more information,f,Request more information,f,Confirmation after action,yes
+434154,TEMI,no problem is there anything else i can do for you,,,,,,,
+443394,Participant,please turn around that i can get the book ,,,,,,,
+453323,Participant,thank you very much oh ,,,,,,,
+459074,TEMI,how is this,i,Request more information,i,Request more information,i,Confirmation after action,how is this
+461834,Participant,hi temi thank you very much but please bring me the other book,f,Request more information,f,Request more information,f,Confirmation after action,thank you very much but please bring me the other book
+477694,TEMI,what did i do wrong,i,Request more information,i,Request more information,i,Request more information,what did i do wrong
+481494,Participant,hi temi this is the book about statistics i would like the book about robotic,f,Request more information,f,Request more information,f,Request more information,this is the book about statistics i would like the book about robotic
+495834,TEMI,ah my bad i will get you the robot book ((temi goes to the kitchen)) (47.0),f,Request more information,f,Request more information,f,Request more information,i will get you the robot book
+553064,TEMI,sorry again i think this is the right book is that correct,i,Request more information,i,Request more information,i,Confirmation after action,i think this is the right book is that correct
+558424,Participant,hey temi please turn round,,,f,Request more information,,,
+562864,TEMI,sure how is this,i,Request more information,i,Request more information,i,Confirmation after action,how is this
+574124,Participant,hi temi this is very good this is the right book thank you very much,f,Request more information,f,Request more information,f,Confirmation after action,this is very good this is the right book
+579044,TEMI,you're welcome,,,,,,,

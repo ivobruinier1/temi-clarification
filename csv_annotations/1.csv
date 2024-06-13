@@ -1,0 +1,55 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+240,Participant,come over,,,,,,,
+3374,TEMI,sure ((temi comes to participant)) (25.0),,,,,,,
+29234,TEMI,hi there {Participant} how can i help you,,,,,,,
+31842,Participant,hi there a little bit closer please,,,,,,,
+36394,TEMI,sure ((temi comes to participant)) (10.0),,,,,,,
+47914,Participant,a little bit more (5.2) a little bit closer please (3.7) hey temi a little bit closer please,,,,,,,
+66214,TEMI,okay  ((temi comes to participant)) (10.0),,,,,,,
+79674,Participant,please turn around,,,,,,,
+86354,Participant,hey temi please turn around,,,,,,,
+91994,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Request more information,i,Request more information,i,Request more information,in which direction do you want to engage in a rotational realignment
+97914,Participant,to the left,f,Request more information,f,Request more information,f,Request more information,to the left
+102814,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic issue,i,Acoustic issue,sorry i didn't understand could you repeat that
+106726,Participant,please turn to the left,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,turn to the left
+111414,TEMI,so you were saying i should rotate to the right,i,Acoustic misunderstanding,i,Semantic mismatch,i,Confirmation before action ,so you were saying i should rotate to the right
+114694,Participant,that's okay (5.2) please turn to the right (2.1) thank you  ((temi turns around)) (6.0),f,Acoustic misunderstanding,f,Semantic mismatch,f,Confirmation before action ,that's okay (5.2) please turn to the right
+128586,Participant,hop stop (SPEAKS DUTCH),,,,,,,
+133514,TEMI,how is this,i,Request more information,i,Request more information,i,Confirmation after action,how is this
+136834,Participant,i have to do this,,,f,Request more information,,,
+139434,Facilitator,i think it's also fine if she doesn't scan it (1.0),,,,,,,
+141130,Facilitator,no that's fine (2.0) only interact with temi nevertheless,,,,,,,
+143034,Participant, okay,,,,,,,
+147434,Facilitator,yeah but that was a valid question,,,,,,,
+152140,Participant,(SPEAKS DUTCH) um i don't know what to do (1.8),,,,,,,
+153923,Participant,he has to scan he has to scan the qr code,,,,,,,
+158926,Facilitator,no you're supposed to scan the qr code with your phone,,,,,,,
+161702,Participant,with my phone,,,,,,,
+162558,Facilitator,yes,,,,,,,
+162814,Participant,oh i'm sorry ,,,,,,,
+163084,Facilitator,that's okay ,,,,,,,
+165234,Participant,next one hey temi can you turn off the light,,,,,,,
+173293,Participant,oh uh i'm sorry hey temi can you go to the kitchen,,,,,,,
+209254,TEMI,sure,,,,,,,
+210006,TEMI,what do you want me to do in the kitchen,i,Request more information,i,Request more information,i,Request more information,what do you want me to do in the kitchen
+212262,Participant,make some coffee please,f,Request more information,f,Request more information,f,Request more information,make some coffee
+222974,TEMI,sadly i cannot make coffee,,,,,,,
+226560,Participant,uh can you go to the kitchen and turn off the light,,,,,,,
+234274,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,sorry i didn't understand could you repeat that please
+238250,Participant,can you go to the kitchen and turn off the light,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,can you go to the kitchen and turn off the light
+246354,TEMI,do you want me to check if the fridge is open,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Confirmation before action ,do you want me to check if the fridge is open
+249114,Participant,yeah that's okay check if the fridge is open ,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Confirmation before action ,yeah that's okay check if the fridge is open 
+256394,TEMI,okay uh i will check ((temi goes to the kitchen)) (50.0),,,f,Acoustic misunderstanding,f,Confirmation before action ,okay uh i will check
+313564,TEMI,the microwave is turned off is that the information you were looking for,i,Request more information,i,Request more information,i,Confirmation after action,the microwave is turned off is that the information you were looking for
+318036,Participant,yeah that's okay thank you,f,Request more information,f,Request more information,f,Confirmation after action,yeah that's okay
+321724,TEMI,you're welcome,,,,,,,
+326524,Participant,thanks ,,,,,,,
+330024,Participant,temi can you go to the kitchen and get a book,,,,,,,
+341744,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,sorry i didn't understand could you repeat that please
+346440,Participant,uh yes can you go to the uh kitchen and get some papers,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,uh yes can you go to the uh kitchen and get some papers
+355744,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Request more information,i,Request more information,i,Request more information,do you want me to get the book or just check if there is a book in the kitchen
+359280,Participant,yes check if the book is uh in the kitchen ,f,Request more information,f,Request more information,f,Request more information,yes check if the book is uh in the kitchen 
+368644,TEMI,okay i will check if there is a book in the kitchen ((temi goes to the kitchen)) (55.0),,,,,,,
+431404,TEMI,i just checked there are two books in the kitchen one about statistics and one about robots,,,,,,,
+439624,Participant,okay thank you you can go back now,,,,,,,
+444544,TEMI,you're welcome,,,,,,,

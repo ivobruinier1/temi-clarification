@@ -1,0 +1,71 @@
+start (in ms),speaker,text
+1440,Naomi,"Tammy, can you come to me, please?"
+5110,TEMI,"Hello, Naomi. How can I assist you?"
+8070,Naomi,"Hello, Tammy. Can you come to me, please?"
+13534,UNIDENTIFIED,Sure.
+20694,Naomi,Can you maybe turn around?
+22206,TEMI,How is this?
+24214,Naomi,This is perfect. Can you maybe turn around so I can scan the back of you?
+31874,TEMI,Why do you want me to turn around?
+34674,Naomi,I would like to scan the QR code on your back.
+40554,UNIDENTIFIED,Okay.
+40720,TEMI,"Um, in which direction do you want to engage in a rotational realignment?"
+45920,Naomi,"Uh, you can turn around 180 degrees."
+55694,TEMI,In which direction?
+57174,Naomi,To the right.
+80394,TEMI,How is this?
+81706,Naomi,This is perfect. Thank you. Timmy is happy.
+94474,TEMI,Can I turn back now?
+97194,Naomi,"1 second, please."
+101834,TEMI,Sorry.
+103564,Naomi,Taimie. Can you maybe go to the kitchen and check if the light is turned on or turned off?
+122084,TEMI,You want me to check if the fridge is open?
+124764,Naomi,"Oh, sorry, Timmy. No. Can you check if the light is turned on or is it turned off?"
+133373,TEMI,"Sorry. I didn't understand. Could you repeat that, please?"
+137733,Naomi,Can you go to the kitchen and check if the light is turned on?
+145213,TEMI,Apologies. You want me to check if the kitchen light is switched off?
+149573,Naomi,Yes. Perfect.
+154333,UNIDENTIFIED,Sure.
+155085,TEMI,I will check.
+156714,Naomi,Thank you.
+189240,UNIDENTIFIED,M.
+204734,TEMI,I just checked in the kitchen. The light is off. Was that the information that you were looking for?
+211024,Naomi,"Yes. Thank you, Temmie."
+214224,TEMI,You're welcome.
+218144,Naomi,"Oh, can you now go to the kitchen and get me the book? Your handbook."
+230304,TEMI,Do you want me to get the book or just check if there is a book in the kitchen?
+233912,Naomi,"No, you can come get it for me, please."
+242284,TEMI,So you want me to get the book for you?
+244380,Naomi,"Yes, please."
+249524,UNIDENTIFIED,Sure.
+249920,TEMI,"Um, I am on my way."
+251884,Naomi,Thank you so much.
+301074,TEMI,There are two books in the kitchen. One about statistics and one about robots. Which one do you want?
+308194,Naomi,I would like the book about robots.
+315544,TEMI,"Sorry, I didn't understand. Could you repeat that, please?"
+319424,Naomi,"Can you get me the book about robots from the kitchen, please?"
+324544,TEMI,You want me to bring you the book about robots? Is that correct?
+327952,Naomi,Yes.
+331224,UNIDENTIFIED,Sure.
+331620,TEMI,"Um, I will get you the book."
+333320,Naomi,Thank you.
+336684,UNIDENTIFIED,It mhm. M.
+396764,TEMI,I got you the book. Is this the book you wanted?
+402324,Naomi,"Can you turn around, please? 180 degrees to the."
+407092,UNIDENTIFIED,Sure.
+414664,TEMI,How is this?
+416384,Naomi,"This is the statistics book, but that's fine as well. Thank you very much."
+425184,TEMI,"Oh, you want me to get the other book?"
+428864,Naomi,"I think one is fine. No. Come get me the, uh, book about robots. Robots as well, please."
+440684,TEMI,Okay. On my way.
+444684,Naomi,Thank you.
+483624,TEMI,I got you the second book. Is this the book you wanted?
+490104,Naomi,"Can, uh, you turn around again, please?"
+495264,TEMI,In what direction?
+496792,Naomi,"180 degrees to the right, please."
+502504,TEMI,To the right?
+503552,Naomi,Yes. Perfect. Thank you so much.
+517824,TEMI,You're welcome.
+522094,Naomi,You were a big help today.
+525534,TEMI,Is there anything else I can do?
+527814,Naomi,"No, I don't think so. Thank you very much."

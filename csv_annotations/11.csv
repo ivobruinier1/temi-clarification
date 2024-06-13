@@ -1,0 +1,51 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+340,Participant,hey temi can you turn around please ((temi turns around)) (9.5),,,,,,,
+9200,TEMI,how is this,,,,,,,
+13294,Participant,thank you for turning around,,,,,,,
+17680,TEMI,youre welcome,,,,,,,
+21614,Participant,can you check if the lights are switched off in the kitchen,,,,,,,
+31074,TEMI,sorry i didnt understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didnt understand could you repeat that please
+35474,Participant,can you check if the lights are switched off in the kitchen,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,can you check if the lights are switched off in the kitchen
+45234,TEMI,you want me to check if the fridge is open in the kitchen,i,Acoustic issue,i,Confirmation before action,i,Confirmation before action,you want me to check if the fridge is open in the kitchen
+48306,Participant,no if the lights are uh off in the kitchen,f,Acoustic issue,f,Confirmation before action,f,Confirmation before action,no if the lights are uh off in the kitchen
+54464,TEMI,apologies you want me to check if the kitchen light is switched off,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,apologies you want me to check if the kitchen light is switched off
+58368,Participant,yes,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes
+63784,TEMI,okay i will check ((temi goes to the kitchen)) (65.0),f,Confirmation before action,i,Confirmation before action,i,Confirmation before action,okay i will check
+132404,TEMI,i am back i just checked,,,,,,,
+137364,Participant,and are they off or on,,,,,,,
+142084,TEMI,the kitchen light is switched off (.) was that the information you were looking for,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,the kitchen light is switched off (.) was that the information you were looking for
+146572,Participant,yes thank you,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,yes
+149564,TEMI,youre welcome,f,Confirmation after action,,,,,
+153284,Participant,hey temi um can you get [the book from],,,,,,,
+155888,TEMI,[is there] anything else i can do,,,,,,,
+158384,Participant,can you get the book from the kitchen please,,,,,,,
+167224,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Acoustic issue,i,Request more information,i,Acoustic issue,do you want me to get the book or just check if there is a book in the kitchen
+170816,Participant,no get it please,f,Acoustic issue,f,Request more information,f,Acoustic issue,no get it please
+177304,TEMI,sorry i didnt understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didnt understand could you repeat that please
+181248,Participant,can you bring me the book from the kitchen,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,can you bring me the book from the kitchen
+189224,TEMI,so you want me to get a book from the kitchen,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,so you want me to get a book from the kitchen
+191648,Participant,yes,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes
+201904,TEMI,okay i will get a book from the kitchen ((temi goes to the kitchen)) (51.0),f,Confirmation before action,i,Confirmation before action,i,Confirmation before action,okay i will get a book from the kitchen
+254304,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+263374,Participant,ehmm the one about robots,f,Request more information,f,Request more information,f,Request more information,the one about robots
+266574,TEMI,you want me to bring you the book about robots is that correct,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,you want me to bring you the book about robots is that correct
+269894,Participant,yes please,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes
+275134,TEMI,okay ill get you the robots book ((temi goes to the kitchen)) (50.0),f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,okay ill get you the robots book
+325574,TEMI,i got you a book is this the right one,,,i,,,,
+329294,Participant,can you turn around so i can see,,,f,,,,
+337154,TEMI,sure in which direction,i,Request more information,i,Request more information,i,Request more information,in which direction
+340074,Participant,whatever you prefer,f,Request more information,f,Request more information,f,Request more information,whatever you prefer
+348154,TEMI,i prefer a three sixty ((temi turns around)),,,f,,,,
+351342,Participant,then do it (13.0),,,f,,,,
+366024,TEMI,how was that,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,how was that
+367192,Participant,its the wrong book actually,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,its the wrong book
+376784,TEMI,oh i am sorry what book do you want,i,Request more information,i,Request more information,i,Request more information,oh i am sorry what book do you want
+381960,Participant,the book about robots can you go there and change it,f,Request more information,f,Request more information,f,Request more information,the book about robots can you go there and change it
+387684,TEMI,sure i am on my way ((temi goes to the kitchen)),f,Request more information,f,Confirmation before action,f,Request more information,sure i am on my way
+390140,Participant,thank you (49.0),,,,,,,
+441444,TEMI,i took the other book from the kitchen is this the right book,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,i took the other book from the kitchen is this the right book
+445348,Participant,yes thats the correct book,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,yes thats the correct book
+450324,TEMI,do i need to bring back the other book,,,,,,,
+454684,Participant,no its fine,,,,,,,
+463364,TEMI,okay is there anything else i can do,,,,,,,
+467194,Participant,no thank you,,,,,,,

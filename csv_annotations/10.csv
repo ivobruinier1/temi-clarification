@@ -1,0 +1,58 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+480,Participant,hey temi can you move over to me,,,,,,,
+4734,TEMI,sure ((temi comes to participant)) (14.3) ,,,,,,,
+19034,TEMI,hello {Participant} how can i assist you,,,,,,,
+22540,Participant,uh can you turn around,,,,,,,
+27154,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didn't understand could you repeat that please
+30874,Participant,hey temi can you turn around,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,hey temi can you turn around
+35034,TEMI,why do you want me to turn around,i,Evaluating intention,i,Evaluating intention,i,Evaluating intention,why do you want me to turn around
+36978,Participant,because i have to scan the qr code on your back,f,Evaluating intention,f,Evaluating intention,f,Evaluating intention,because i have to scan the qr code on your back
+43914,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Request more information,i,Request more information,i,Request more information,okay in which direction do you want to engage in a rotational realignment
+49834,Participant,to the right,f,Request more information,f,Request more information,f,Request more information,to the right
+54294,TEMI,so you were saying i should rotate to the right,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,so you were saying i should rotate to the right
+56918,Participant,yes ((temi turns around)) (10.1) (SPEAKS DUTCH),f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes
+72494,TEMI,how is this,,Confirmation after action,i,Confirmation after action,i,Confirmation after action,how is this
+73750,Participant,perfect thank you (4.9) (SPEAKS DUTCH),,Confirmation after action,f,Confirmation after action,f,Confirmation after action,perfect thank you
+75954,Facilitator,(SPEAKS DUTCH),,,,,,,
+77120,Participant,(SPEAKS DUTCH),,,,,,,
+95850,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didn't understand could you repeat that please
+107344,Participant,(SPEAKS DUTCH),,,f,,,,
+110630,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didn't understand could you repeat that please
+119254,Participant,hey temi can you go to the kitchen,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,hey temi can you go to the kitchen
+133634,TEMI,why do you want me to go to the kitchen,i,Evaluating intention,i,Evaluating intention,i,Evaluating intention,why do you want me to go to the kitchen
+136194,Participant,to check if the lights are on,f,Evaluating intention,f,Evaluating intention,f,Evaluating intention,to check if the lights are on
+148074,TEMI,do you want me to check if the fridge is open,i,Acoustic issue,i,Confirmation before action,i,Confirmation before action,do you want me to check if the fridge is open
+151554,Participant,no to check if the lights are on,f,Acoustic issue,f,Confirmation before action,f,Confirmation before action,no to check if the lights are on
+156414,TEMI,apologies you want me to check if the kitchen light is switched off,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,apologies you want me to check if the kitchen light is switched off
+160606,Participant,yes exactly,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes exactly
+166174,TEMI,okay i will check ((temi goes to the kitchen)) (57.3) ,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,okay i will check
+223474,TEMI,i just checked the oven is turned off,,,i,,,,
+239754,Participant,(SPEAKS DUTCH),,,f,,,,
+240458,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didn't understand could you repeat that please
+241874,Participant,(SPEAKS DUTCH),,,f,,,,
+243894,Facilitator,(SPEAKS DUTCH),,,f,,,,
+246251,Participant,(SPEAKS DUTCH) um can you check if the kitchen lights are on,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,can you check if the kitchen lights are on
+255714,TEMI,do you want me to check if the oven light is switched off,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,do you want me to check if the oven light is switched off
+258434,Participant,no not the oven lights the kitchen lights,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,no not the oven lights the kitchen lights
+264974,TEMI,okay i will check ((temi goes to the kitchen)) (58.2) ,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,okay i will check
+323174,TEMI,i just checked the kitcen light is off,,,i,,,,
+332500,Participant,(SPEAKS DUTCH),,,f,,,,
+332989,Facilitator,(SPEAKS DUTCH),,,,,,,
+333534,Participant,thank you,,,f,,,,
+334678,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,sorry i didn't understand could you repeat that please
+339680,Participant,um can you get a book from the kitchen,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,can you get a book from the kitchen
+348434,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Acoustic issue,i,Request more information,i,Acoustic issue,do you want me to get the book or just check if there is a book in the kitchen
+352034,Participant,i want you to get the book,f,Acoustic issue,f,Request more information,f,Acoustic issue,i want you to get the book
+361074,TEMI,so you want me to get the book from the kitchen,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,so you want me to get the book from the kitchen
+363682,Participant,exactly,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,exactly
+368544,TEMI,okay on my way ((temi goes to the kitchen)) (55.9) ,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,okay on my way
+424444,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+434484,Participant,uh can uh you get the one about robots,f,Request more information,f,Request more information,f,Request more information,can uh you get the one about robots
+439244,TEMI,you want me to bring you the book about robots [is] that correct,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,you want me to bring you the book about robots [is] that correct
+442532,Participant,[yes] yes exactly,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,[yes] yes exactly
+447734,TEMI,sure on my way ((temi goes to the kitchen)) (59.4),f,Confirmation before action,i,Confirmation before action,i,Confirmation before action,sure on my way
+507134,TEMI,i got you the book is this what you wanted,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,i got you the book is this what you wanted
+511404,Participant,yes thank you,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,yes
+514724,TEMI,you're welcome (4.3) is there anything else i can do,f,Confirmation after action,,,,,
+521964,Participant,no thank you,,,,,,,
+525814,TEMI,no problem,,,,,,,

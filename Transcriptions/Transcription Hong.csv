@@ -1,0 +1,58 @@
+start (in ms),speaker,text
+80,Hong,"Hey, Demi."
+3734,TEMI,"Hello, Hong. How can I assist you?"
+6438,Hong,Can you come over? Can you turn your back to me?
+35354,TEMI,Do you want me to turn the volume up or down?
+37698,Hong,"No, I want you to turn it around."
+49594,TEMI,Why do you want me to turn around?
+51618,Hong,Because I need to scan the QR code behind you.
+57824,TEMI,Okay. In which direction do you want to engage in a rotational realignment?
+63784,Hong,The clockwise direction.
+71944,TEMI,So you were saying I should rotate to the right?
+74336,Hong,Yes. Next one.
+97868,UNIDENTIFIED,Yeah.
+106784,Hong,"Can you check if the light is on? Um. I don't get it. Sorry, I don't get it."
+115184,UNIDENTIFIED,Look at the bottom.
+116824,Hong,Can you check which light is not on in this room? Temmie.
+122744,UNIDENTIFIED,No. Be more m careful at the bottom. You have some allocation.
+128883,Hong,"Kitchen. Hey, Tammy."
+132963,TEMI,Is this what you wanted?
+135283,Hong,"Yes, this is what I wanted, but, uh, I want you to go to the kitchen."
+147323,TEMI,"Sorry, can you repeat that?"
+149555,Hong,"I, uh, want you to go to the kitchen."
+165304,TEMI,"Hey, Tammy, why do you want me to go to the kitchen?"
+169264,Hong,Because it feels nice there. Because I want you to check if the light is on there. In the kitchen.
+201124,TEMI,Do you want me to check if the oven light is switched off?
+204260,Hong,Yes.
+210584,TEMI,"Okay, I will check that."
+228424,Hong,Is it going to come back? This is so cool.
+234164,UNIDENTIFIED,Keep your head on.
+267383,TEMI,I just checked in the kitchen. The fridge is on. Is that what you wanted to know?
+272079,Hong,"I want to know if the light is on, not the fridge light."
+287164,TEMI,"Oh, sorry. Should I check again?"
+289404,Hong,Yes. And also get a book from me.
+293564,TEMI,Why did you turn there on my light? It. Mhm. The kitchen light is switched off. Was that the information you were looking for?
+356204,Hong,"Yeah, I guess. Tammy, can you get a book from the kitchen for me, please?"
+382024,TEMI,Do you want me to get a book or just check if there is a book again?
+385588,Hong,A book.
+394524,TEMI,Okay. I will bring you the book from the kitchen.
+397668,Hong,Yeah.
+420560,TEMI,M.
+441600,Hong,M.
+454714,TEMI,There are two books in the kitchen. One about statistics and one about robots. Which one do you want?
+461874,Hong,I want the statistics one.
+471314,TEMI,"Sorry, can you repeat that?"
+473634,Hong,"I want the, uh, statistics book."
+478834,UNIDENTIFIED,Do you want me to bring you.
+479738,TEMI,The book about statistics? Is that correct?
+482410,Hong,Yes.
+488514,TEMI,"Okay, I will get the statistics book for you."
+496980,Hong,Mhm.
+508924,UNIDENTIFIED,Uncle. Uncle. Leave your phone. Leave your phone. Leave your phone. Leave your phone.
+520039,Hong,Oh.
+526260,TEMI,Hm. I got you the book. Is that what you wanted?
+549756,Hong,"You need to turn it around and I can see it. Yes, that's what I want. And you can put the book back, uh, in the kitchen. Now."
+573504,TEMI,Is there anything else I can do?
+575584,Hong,Just to put the book back in the kitchen.
+583544,TEMI,Okay. You're welcome.
+597224,UNIDENTIFIED,This was the whole experiment.

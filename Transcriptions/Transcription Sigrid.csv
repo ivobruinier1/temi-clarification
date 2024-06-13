@@ -1,0 +1,58 @@
+start (in ms),speaker,text
+240,Sigrid,Come over.
+3374,TEMI,Sure.
+29234,UNIDENTIFIED,"Hi there, Sigrid. How can I help you?"
+31842,Sigrid,"Hi there. A little bit closer, please."
+36394,TEMI,Sure.
+47914,Sigrid,"A little bit more. A little bit closer, please. Hey, Toby. A little bit closer, please."
+66214,UNIDENTIFIED,Okay.
+79674,Sigrid,Please turn around.
+80660,UNIDENTIFIED,M.
+86354,Sigrid,"Hey, Demi. Please turn around."
+91994,UNIDENTIFIED,"Okay, in which direction do you want to engage in a rotational realignment?"
+97914,Sigrid,To the left.
+102814,UNIDENTIFIED,"Sorry, I didn't understand. Could you repeat that, please?"
+106726,Sigrid,Please turn to the left.
+111414,UNIDENTIFIED,So you were saying I should rotate to the right.
+114694,Sigrid,That's okay. Please turn to the right. Thank you.
+127994,UNIDENTIFIED,Help.
+128586,Sigrid,Stop.
+133514,UNIDENTIFIED,How is this?
+136834,Sigrid,I have to do this.
+139434,UNIDENTIFIED,I think it's also fine if she.
+141130,TEMI,"Doesn'T scan it, right?"
+143034,Sigrid,"Yeah, it's fine. Only interact with me nevertheless. Okay?"
+147434,UNIDENTIFIED,"Yeah, but that was a valid question."
+152140,Sigrid,"Um, I don't know what to do. I have to scan. He has to scan the QR code."
+158926,UNIDENTIFIED,"No, you're supposed to scan the QR code with your phone."
+161702,Sigrid,With my phone?
+162558,UNIDENTIFIED,Yes.
+162814,Sigrid,"Oh, I'm sorry. That's okay. Next one. Hey, Tammy, can you turn off the light? Oh, uh, I'm sorry. Hey, Tammy, can you go to the kitchen?"
+209254,TEMI,Sure.
+210006,UNIDENTIFIED,What do you want me to do in the kitchen?
+212262,Sigrid,"Make some coffee, please."
+222974,UNIDENTIFIED,"Sadly, I cannot make coffee."
+226560,Sigrid,"Uh, can you go to the kitchen and turn off the light?"
+234274,UNIDENTIFIED,"Sorry, I didn't understand. Could you repeat that, please?"
+238250,Sigrid,Can you go to the kitchen and turn off the light?
+246354,UNIDENTIFIED,Do you want me to check if the fridge is open?
+249114,Sigrid,"Yeah, that's okay. Check if the fridge is open. Um."
+256394,UNIDENTIFIED,Okay.
+256580,UNIDENTIFIED,"Uh, I will check it."
+289380,UNIDENTIFIED,Mhm.
+313564,UNIDENTIFIED,The microwave is turned off. Is that the information you were looking for?
+318036,Sigrid,Yeah. That's okay. Thank you.
+321724,UNIDENTIFIED,You're welcome.
+326524,Sigrid,"Thanks. Tammy, can you go to the kitchen? I got a book."
+341744,UNIDENTIFIED,"Sorry, I didn't understand. Could you repeat that, please?"
+346440,Sigrid,"Uh, yes. Can you go to the, uh, kitchen and get some papers?"
+355744,UNIDENTIFIED,Do you want me to get the book or just check if there is a book in the kitchen?
+359280,Sigrid,"Yes. Check if the book is, uh, indication."
+368644,UNIDENTIFIED,"Okay, I will check if there is a book in the kitchen."
+378840,UNIDENTIFIED,Mhm. Mhm.
+431404,UNIDENTIFIED,I just checked. There are two books in the kitchen. M. One about statistics and one about robots.
+439624,Sigrid,Okay. Thank you. You can go back now.
+444544,UNIDENTIFIED,You're welcome.
+464344,UNIDENTIFIED,Okay.
+465008,Sigrid,Thank you. That's it.
+467344,UNIDENTIFIED,"Now, I also like to ask you to fill in the shop."
