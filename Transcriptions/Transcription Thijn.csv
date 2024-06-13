@@ -1,0 +1,66 @@
+start (in ms),speaker,text
+4320,Thijn,"Hi, Timmy. Can you come here for a second?"
+8574,TEMI,Sure.
+21014,UNIDENTIFIED,Hello.
+21558,TEMI,Time. How can I assist you?
+24022,Thijn,Can you please turn around?
+28514,TEMI,Why do you want me to turn around?
+32034,Thijn,I need to scan your QR code.
+38154,TEMI,You want me to turn around?
+40834,Thijn,Yes.
+44114,TEMI,"Okay, in which direction do you want to engage in a rotational realignment?"
+49200,Thijn,"Uh, I need you to turn 180 degrees."
+56704,TEMI,Okay. In which direction do you want to engage in a rotational realignment?
+63064,Thijn,180 degrees.
+79204,TEMI,How is this?
+82284,Thijn,"Yes, perfect. Thank you."
+85684,TEMI,"You're welcome. Hey, time. Can I do anything else for you?"
+103304,Thijn,"So I just need. Yeah. Hi, Timmy. Can you go to the."
+118104,TEMI,Hello. Time. How can I assist you?
+120776,Thijn,Can you go to the kitchen?
+126500,TEMI,Mhm.
+154224,UNIDENTIFIED,It m.
+189924,TEMI,High time I went to the kitchen. Was that all right?
+194564,Thijn,"Yeah, it's good. Thank you."
+196012,UNIDENTIFIED,You have to check if the light in the kitchen is or off.
+200444,Thijn,"Oh, it's okay."
+204564,UNIDENTIFIED,Maybe you can ask that now.
+207324,Thijn,Was the light in the kitchen on or off?
+212844,TEMI,"Sorry, I didn't understand. Could you repeat that, please?"
+217244,Thijn,"Was the, uh, light in a kitchen on or off?"
+224124,TEMI,I did not check the light. Sorry.
+228284,UNIDENTIFIED,You can send over again.
+229524,Thijn,Okay. Can you go to the kitchen to check if the light is on or off?
+238124,TEMI,Do you want me to check if the oven light is switched off?
+242364,Thijn,"No, the light in the kitchen, if it's on or off."
+249844,TEMI,"Ah, okay. I will check."
+252116,Thijn,"Okay, thank you."
+256804,TEMI,No problem.
+286124,UNIDENTIFIED,And I got a flyer on my way.
+309564,TEMI,I just checked the light in the kitchen. It is off.
+313494,Thijn,"Okay. Okay. Tell me, can you get me a, uh, book from the kitchen?"
+330774,TEMI,Do you want me to get the book or just check if there is a book in the kitchen?
+335454,UNIDENTIFIED,No.
+335918,Thijn,Can you also bring it with you?
+344494,TEMI,"Sure, I will get you the book."
+357520,UNIDENTIFIED,Mhm.
+388874,UNIDENTIFIED,Something that I feel like most people.
+399540,UNIDENTIFIED,M.
+411954,TEMI,There are two books in the kitchen. One about statistics and one about robots. Which one do you want?
+421480,Thijn,"Uh, get me the one from statistics, please."
+426724,TEMI,"Sorry, I didn't understand. Could you repeat that, please?"
+430380,Thijn,Can you get me the one from statistics?
+434324,TEMI,You want me to bring you the book about statistics? Is that correct?
+437932,Thijn,"Yes, sure."
+440404,TEMI,On my way.
+441700,UNIDENTIFIED,Mhm.
+525044,TEMI,I got you a m book. Is this the one you wanted?
+528964,Thijn,Yes. Thank you.
+532444,TEMI,You're welcome. Is there anything else I can do?
+539920,Thijn,"Uh, can you bring it to me? So turn around, uh, 180 degrees."
+549344,TEMI,Sure. In which direction?
+552200,Thijn,"Uh, can you turn 180 degrees? Yes."
+566864,TEMI,How is this?
+568384,Thijn,"Yes, perfect."
+571644,TEMI,No problem. Is there anything else I can do?
+580860,Thijn,"Uh, no, that's it. Thank you. You can go back. Okay."

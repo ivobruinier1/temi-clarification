@@ -1,0 +1,46 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+880,Participant,hey temi can you come here please,,,,,,,
+6614,TEMI,sure ((temi comes to participant)) (15.7) ,,,,,,,
+22314,TEMI,hi there how can i help you,,,,,,,
+27314,Participant,hey uh i need to see something on the on your backside can you please turn around one hundred eighty degrees,,,,,,,
+39914,TEMI,you want me to turn around,i,Repeating the request/information,i,Semantic mismatch,i,Paraphrasing,you want me to turn around
+42234,Participant,yes please,f,Repeating the request/information,f,Semantic mismatch,f,Paraphrasing,yes
+47034,TEMI,so you were saying i should rotate to the right,i,Semantic mismatch,i,Semantic mismatch,i,Request more information,so you were saying i should rotate to the right
+50594,Participant,yes,f,Semantic mismatch,f,Semantic mismatch,f,Request more information,yes
+58334,TEMI,no problem ((temi turns around)) (6.4),,,,,,,
+68494,Participant,can you turn a bit more ((temi turns around)) (10.9) [perfect],,,,,,,
+84112,TEMI,[how is] this,i,Request more information,i,Request more information,i,Confirmation after action,[how is] this
+86344,Participant,that's good thanks (46.8),f,Request more information,f,Request more information,f,Confirmation after action,that's good
+133144,Participant,hey temi i'm not sure if the light is on in the kitchen can you please check that for me,,,,,,,
+145064,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,i didn't understand could you repeat that please
+151184,Participant,i am not sure if i left the light on in the kitchen can you check if the light is on in the kitchen for me please,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,i am not sure if i left the light on in the kitchen can you check if the light is on in the kitchen for me
+163984,TEMI,do you want me to check if the fridge is open in the kitchen,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Confirmation before action ,do you want me to check if the fridge is open in the kitchen
+169024,Participant,no i would like for you to check if the light is on in the kitchen,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Confirmation before action ,no i would like for you to check if the light is on in the kitchen
+177944,TEMI,apologies you want me to check if the kitchen light is switched off,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,apologies you want me to check if the kitchen light is switched off
+182324,Participant,yes please,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes
+188244,TEMI,okay i will check ((temi goes to the kitchen)) (50.1),,,,,,,
+238344,TEMI,i just checked the light in the kitchen is off,,,,,,,
+253044,Participant,thank you,,,,,,,
+254964,TEMI,was that were you looking for,i,Request more information,i,Request more information,i,Confirmation after action,was that were you looking for
+257044,Participant,yes thank you and i have another task for you,f,Request more information,f,Request more information,f,Confirmation after action,yes
+260752,TEMI,no problem,,,,,,,
+264304,Participant,temi in the kitchen there is a book can you please get that book for me,,,,,,,
+272704,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,i didn't understand could you repeat that please
+277224,Participant,can you please get the book from the kitchen for me,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,can you please get the book from the kitchen for me
+282904,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Request more information,i,Request more information,i,Request more information,do you want me to get the book or just check if there is a book in the kitchen
+287624,Participant,i want you to get the book from the kitchen,f,Request more information,f,Request more information,f,Request more information,i want you to get the book from the kitchen
+296184,TEMI,okay i will get you the book from the kitchen ((temi goes to the kitchen)) (49.9) ,,,,,,,
+346084,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+359154,Participant,can you bring them both,f,Request more information,f,Request more information,f,Request more information,can you bring them both
+367454,TEMI,do you want me to get both books,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,do you want me to get both books
+369758,Participant,yes,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes
+381614,TEMI,okay i will give you both books from the kitchen ((temi goes to the kitchen)) (66.1) ,,,,,,,
+447714,TEMI,i got you both books are these the books where you were looking for,i,Request more information,i,Request more information,i,Confirmation after action,i got you both books are these the books where you were looking for
+457604,Participant,i don't know can you come closer so i can grab the books from you ((temi comes to participant)) (12.9),f,Request more information,f,Request more information,f,Confirmation after action,i don't know can you come closer so i can grab the books from you
+477464,TEMI,sure is this close enough,i,Request more information,i,Request more information,i,Confirmation after action,is this close enough
+479632,Participant,yes (5.5) great those are the correct books thank you,f,Request more information,f,Request more information,f,Confirmation after action,yes
+489352,TEMI,is there anything else i can help you with,,,,,,,
+493924,Participant,no that's all you can go back to your position,,,,,,,
+500524,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic misunderstanding,i,Acoustic misunderstanding,i,Acoustic issue,sorry i didn't understand could you repeat that please
+505724,Participant,that's all temi thank you you can go back to the corner of the room,f,Acoustic misunderstanding,f,Acoustic misunderstanding,f,Acoustic issue,that's all temi thank you you can go back to the corner of the room
+513324,TEMI,sure,,,,,,,

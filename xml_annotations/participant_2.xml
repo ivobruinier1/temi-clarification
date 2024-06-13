@@ -1,0 +1,381 @@
+<?xml version="1.0" ?>
+<!DOCTYPE dialogue [
+<!ELEMENT dialogue (metadata, entry*)>
+<!ELEMENT metadata (gender, age_group, nationality, first_language, english_skills, education, tech_savviness, date_of_interaction, amount_of_turns, distinct_clarification_type_count, amount_of_interactions)>
+<!ELEMENT gender (#PCDATA)>
+<!ELEMENT age_group (#PCDATA)>
+<!ELEMENT nationality (#PCDATA)>
+<!ELEMENT first_language (#PCDATA)>
+<!ELEMENT english_skills (#PCDATA)>
+<!ELEMENT education (#PCDATA)>
+<!ELEMENT tech_savviness (#PCDATA)>
+<!ELEMENT date_of_interaction (#PCDATA)>
+<!ELEMENT amount_of_turns (#PCDATA)>
+<!ELEMENT distinct_clarification_type_count (#PCDATA)>
+<!ELEMENT amount_of_interactions (#PCDATA)>
+<!ELEMENT entry (start_ms, speaker, text, clarification_turn, clarification_type, clarification_span?)>
+<!ELEMENT start_ms (#PCDATA)>
+<!ELEMENT speaker (#PCDATA)>
+<!ELEMENT text (#PCDATA)>
+<!ELEMENT clarification_turn (#PCDATA)>
+<!ELEMENT clarification_type (#PCDATA)>
+<!ELEMENT clarification_span (#PCDATA)>
+]>
+<dialogue>
+    <metadata>
+        <gender>Male</gender>
+        <age_group>26-35</age_group>
+        <nationality>German</nationality>
+        <first_language>German</first_language>
+        <english_skills>Fluent</english_skills>
+        <education>Bachelor's degree</education>
+        <tech_savviness>Advanced</tech_savviness>
+        <date_of_interaction>27/05/2024</date_of_interaction>
+        <amount_of_turns>40</amount_of_turns>
+        <distinct_clarification_type_count>5</distinct_clarification_type_count>
+        <amount_of_interactions>7</amount_of_interactions>
+    </metadata>
+    <entry>
+        <start_ms>880</start_ms>
+        <speaker>Participant</speaker>
+        <text>hey temi can you come here please</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>6614</start_ms>
+        <speaker>TEMI</speaker>
+        <text>sure ((temi comes to participant)) (15.7) </text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>22314</start_ms>
+        <speaker>TEMI</speaker>
+        <text>hi there how can i help you</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>27314</start_ms>
+        <speaker>Participant</speaker>
+        <text>hey uh i need to see something on the on your backside can you please turn around one hundred eighty degrees</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>39914</start_ms>
+        <speaker>TEMI</speaker>
+        <text>you want me to turn around</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Paraphrasing</clarification_type>
+        <clarification_span>[0, 26]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>42234</start_ms>
+        <speaker>Participant</speaker>
+        <text>yes please</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Paraphrasing</clarification_type>
+        <clarification_span>[0, 3]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>47034</start_ms>
+        <speaker>TEMI</speaker>
+        <text>so you were saying i should rotate to the right</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Request more information</clarification_type>
+        <clarification_span>[0, 47]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>50594</start_ms>
+        <speaker>Participant</speaker>
+        <text>yes</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Request more information</clarification_type>
+        <clarification_span>[0, 3]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>58334</start_ms>
+        <speaker>TEMI</speaker>
+        <text>no problem ((temi turns around)) (6.4)</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>68494</start_ms>
+        <speaker>Participant</speaker>
+        <text>can you turn a bit more ((temi turns around)) (10.9) [perfect]</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>84112</start_ms>
+        <speaker>TEMI</speaker>
+        <text>[how is] this</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 13]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>86344</start_ms>
+        <speaker>Participant</speaker>
+        <text>that's good thanks (46.8)</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 11]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>133144</start_ms>
+        <speaker>Participant</speaker>
+        <text>hey temi i'm not sure if the light is on in the kitchen can you please check that for me</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>145064</start_ms>
+        <speaker>TEMI</speaker>
+        <text>sorry i didn't understand could you repeat that please</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Acoustic issue</clarification_type>
+        <clarification_span>[6, 54]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>151184</start_ms>
+        <speaker>Participant</speaker>
+        <text>i am not sure if i left the light on in the kitchen can you check if the light is on in the kitchen for me please</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Acoustic issue</clarification_type>
+        <clarification_span>[0, 106]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>163984</start_ms>
+        <speaker>TEMI</speaker>
+        <text>do you want me to check if the fridge is open in the kitchen</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation before action </clarification_type>
+        <clarification_span>[0, 60]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>169024</start_ms>
+        <speaker>Participant</speaker>
+        <text>no i would like for you to check if the light is on in the kitchen</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation before action </clarification_type>
+        <clarification_span>[0, 66]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>177944</start_ms>
+        <speaker>TEMI</speaker>
+        <text>apologies you want me to check if the kitchen light is switched off</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation before action </clarification_type>
+        <clarification_span>[0, 67]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>182324</start_ms>
+        <speaker>Participant</speaker>
+        <text>yes please</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation before action </clarification_type>
+        <clarification_span>[0, 3]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>188244</start_ms>
+        <speaker>TEMI</speaker>
+        <text>okay i will check ((temi goes to the kitchen)) (50.1)</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>238344</start_ms>
+        <speaker>TEMI</speaker>
+        <text>i just checked the light in the kitchen is off</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>253044</start_ms>
+        <speaker>Participant</speaker>
+        <text>thank you</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>254964</start_ms>
+        <speaker>TEMI</speaker>
+        <text>was that were you looking for</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 29]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>257044</start_ms>
+        <speaker>Participant</speaker>
+        <text>yes thank you and i have another task for you</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 3]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>260752</start_ms>
+        <speaker>TEMI</speaker>
+        <text>no problem</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>264304</start_ms>
+        <speaker>Participant</speaker>
+        <text>temi in the kitchen there is a book can you please get that book for me</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>272704</start_ms>
+        <speaker>TEMI</speaker>
+        <text>sorry i didn't understand could you repeat that please</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Acoustic issue</clarification_type>
+        <clarification_span>[6, 54]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>277224</start_ms>
+        <speaker>Participant</speaker>
+        <text>can you please get the book from the kitchen for me</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Acoustic issue</clarification_type>
+        <clarification_span>[0, 51]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>282904</start_ms>
+        <speaker>TEMI</speaker>
+        <text>do you want me to get the book or just check if there is a book in the kitchen</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Request more information</clarification_type>
+        <clarification_span>[0, 78]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>287624</start_ms>
+        <speaker>Participant</speaker>
+        <text>i want you to get the book from the kitchen</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Request more information</clarification_type>
+        <clarification_span>[0, 43]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>296184</start_ms>
+        <speaker>TEMI</speaker>
+        <text>okay i will get you the book from the kitchen ((temi goes to the kitchen)) (49.9) </text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>346084</start_ms>
+        <speaker>TEMI</speaker>
+        <text>there are two books in the kitchen one about statistics and one about robots which one do you want</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Request more information</clarification_type>
+        <clarification_span>[0, 98]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>359154</start_ms>
+        <speaker>Participant</speaker>
+        <text>can you bring them both</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Request more information</clarification_type>
+        <clarification_span>[0, 23]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>367454</start_ms>
+        <speaker>TEMI</speaker>
+        <text>do you want me to get both books</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation before action </clarification_type>
+        <clarification_span>[0, 32]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>369758</start_ms>
+        <speaker>Participant</speaker>
+        <text>yes</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation before action </clarification_type>
+        <clarification_span>[0, 3]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>381614</start_ms>
+        <speaker>TEMI</speaker>
+        <text>okay i will give you both books from the kitchen ((temi goes to the kitchen)) (66.1) </text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>447714</start_ms>
+        <speaker>TEMI</speaker>
+        <text>i got you both books are these the books where you were looking for</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 67]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>457604</start_ms>
+        <speaker>Participant</speaker>
+        <text>i don't know can you come closer so i can grab the books from you ((temi comes to participant)) (12.9)</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 65]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>477464</start_ms>
+        <speaker>TEMI</speaker>
+        <text>sure is this close enough</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[5, 25]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>479632</start_ms>
+        <speaker>Participant</speaker>
+        <text>yes (5.5) great those are the correct books thank you</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Confirmation after action</clarification_type>
+        <clarification_span>[0, 3]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>489352</start_ms>
+        <speaker>TEMI</speaker>
+        <text>is there anything else i can help you with</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>493924</start_ms>
+        <speaker>Participant</speaker>
+        <text>no that's all you can go back to your position</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+    <entry>
+        <start_ms>500524</start_ms>
+        <speaker>TEMI</speaker>
+        <text>sorry i didn't understand could you repeat that please</text>
+        <clarification_turn>i</clarification_turn>
+        <clarification_type>Acoustic issue</clarification_type>
+        <clarification_span>[0, 54]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>505724</start_ms>
+        <speaker>Participant</speaker>
+        <text>that's all temi thank you you can go back to the corner of the room</text>
+        <clarification_turn>f</clarification_turn>
+        <clarification_type>Acoustic issue</clarification_type>
+        <clarification_span>[0, 67]</clarification_span>
+    </entry>
+    <entry>
+        <start_ms>513324</start_ms>
+        <speaker>TEMI</speaker>
+        <text>sure</text>
+        <clarification_turn/>
+        <clarification_type/>
+    </entry>
+</dialogue>

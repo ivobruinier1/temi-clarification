@@ -1,0 +1,65 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+4340,Participant,um temi can you come to me,,,,,,,
+10014,TEMI,sure ((temi comes to participant)) (15.0),,,,,,,
+28154,TEMI,hello {Participant} how can i assist you,,,,,,,
+31914,Participant,can you come closer to me ((temi comes to participant)) (10.0),,,,,,,
+41980,Participant,and can you [turn around],,,,,,,
+47160,TEMI,[how is this],i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,[how is this]
+50274,Participant,this is fine but can you turn around,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,this is fine but can you turn around
+55374,TEMI,you want me to turn around,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,you want me to turn around
+57230,Participant,yes,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes
+61294,TEMI,why do you want me to turn around,i,Evaluating intention,i,Evaluating intention,i,Evaluating intention,why do you want me to turn around
+64294,Participant,because uh i have to scan uh qr codes,f,Evaluating intention,f,Evaluating intention,f,Evaluating intention,because uh i have to scan uh qr codes
+71334,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Request more information,i,Request more information,i,Request more information,okay in which direction do you want to engage in a rotational realignment
+77040,Participant,um one hundred eighty degrees to the left,f,Request more information,f,Request more information,f,Request more information,um one hundred eighty degrees to the left
+85794,TEMI,why do you want me to turn around,i,Evaluating intention,i,Evaluating intention,i,Evaluating intention,why do you want me to turn around
+89394,Participant,because i have to scan something with my phone on your back,f,Evaluating intention,f,Evaluating intention,f,Evaluating intention,because i have to scan something with my phone on your back
+96954,TEMI,okay ((temi turns around)) (18.0),f,Evaluating intention,f,Confirmation before action,f,Evaluating intention,okay
+109214,Participant,just a bit further no the other direction you're turning,,,,,,,
+121414,TEMI,how was this,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,how was this
+123254,Participant,just a bit more ((temi turns around)) (4.0) yes stop stop this is perfect,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,just a bit more ((temi turns around)) (4.0) yes stop stop this is perfect
+133154,TEMI,how is this,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,how is this
+134410,Participant,this is good,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,this is good
+138834,TEMI,you're welcome,f,Confirmation after action,f,,,,
+166294,Participant,should i like turn off the lights or something,,,,,,,
+169334,Facilitator,check in the kitchen,,,,,,,
+173894,Participant,oh i see (12.0) um temi can you check for me if the lights in the kitchen are on or off,,,,,,,
+192324,TEMI,you want me to check if the fridge is open,i,Acoustic issue,i,Confirmation before action,i,Confirmation before action,you want me to check if the fridge is open
+195684,Participant,no if the lights in the kitchen are on or off,f,Acoustic issue,f,Confirmation before action,f,Confirmation before action,no if the lights in the kitchen are on or off
+198820,TEMI,do you want me to check if the oven light is switched off,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,do you want me to check if the oven light is switched off
+206244,Participant,can you repeat it again,i,Request for repitition,i,Acoustic issue,i,Request for repitition,can you repeat it again
+211024,TEMI,do you want me to check if the oven light is switched off,f,Confirmation before action,f,Acoustic issue,f,Confirmation before action,do you want me to check if the oven light is switched off
+215480,Participant,um no just the lights in the room,f,Confirmation before action,f,Acoustic issue,f,Confirmation before action,um no just the lights in the room
+222504,TEMI,okay i will check ((temi goes to the kitchen)) (64.0),f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,okay i will check
+289334,TEMI,the microwave is off is that what you wanted,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,the microwave is off is that what you wanted
+294534,Participant,no that's not what i want just the lights,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,no that's not what i want just the lights
+302358,TEMI,oh sorry how can i help you,,,,,,,
+305734,Participant,can you check if the light in the room in the kitchen is on or off,,,,,,,
+309740,TEMI,uh okay i will check,,,,,,,
+316354,Participant,okay good luck ((temi goes to the kitchen)) (60.0),,,,,,,
+369334,TEMI,i just checked the lights in the kitchen are off,,,,,,,
+373894,Participant,thank you for that,,,,,,,
+377054,TEMI,you're welcome is there anything else i can do,,,,,,,
+385334,Participant,yes i have one other task for you can you bring me a book and it's in the kitchen for me can you bring it to me temi,,,,,,,
+398314,TEMI,do you want me to get the book or just check if there is a book in the kitchen,i,Acoustic issue,i,Request more information,i,Acoustic issue,do you want me to get the book or just check if there is a book in the kitchen
+402138,Participant,no can you get it for me,f,Acoustic issue,f,Request more information,f,Acoustic issue,no can you get it for me
+406354,TEMI,sorry i didn't understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,i didn't understand could you repeat that please
+410394,Participant,can you get the book for me in the kitchen,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,can you get the book for me in the kitchen
+417934,TEMI,sure i will get you the book ((temi goes to the kitchen)) (46.0),f,Acoustic issue,f,Confirmation before action,f,Acoustic issue,sure i will get you the book
+468404,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+476464,Participant,i prefer robots since you're a robot so,f,Request more information,f,Request more information,f,Request more information,i prefer robots since you're a robot so
+482224,TEMI,you want the book about robots,i,Confirmation before action,i,Confirmation before action,i,Confirmation before action,you want the book about robots
+484080,Participant,yes,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,yes
+488984,TEMI,okay i will get that,f,Confirmation before action,f,Confirmation before action,f,Confirmation before action,okay i will get that
+491344,Participant,okay thank you,,,,,,,
+495304,TEMI,no problem ((temi goes to the kitchen)) (46.0),,,,,,,
+541304,TEMI,i got you the robot book is that what you wanted,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,i got you the robot book is that what you wanted
+546710,Participant,yes that's what i want can you bring it to me,f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,yes that's what i want can you bring it to me
+552334,TEMI,sure ((temi comes to participant)) (10.0),f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,sure
+566614,Participant,just a bit closer,,,,,,,
+568158,TEMI,how is this,i,Confirmation after action,i,Confirmation after action,i,Confirmation after action,how is this
+572414,Participant,a little bit closer ((temi comes to participant)) (4.0),f,Confirmation after action,f,Confirmation after action,f,Confirmation after action,a little bit closer
+576782,Participant,yes stop you can stop okay thank you temi,,,,,,,
+590134,TEMI,is there anything else i can help you with,,,,,,,
+593134,Participant,no you've done all my tasks and you completed them so uh you're done,,,,,,,
+600634,TEMI,you're welcome,,,,,,,

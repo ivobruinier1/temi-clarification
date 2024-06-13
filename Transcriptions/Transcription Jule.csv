@@ -1,0 +1,55 @@
+start (in ms),speaker,text
+9200,Jule,How is this?
+13294,TEMI,Thank you for turning around.
+14460,UNIDENTIFIED,Um.
+17680,Jule,You're welcome.
+21614,TEMI,Can you check if the lights are switched off in the kitchen?
+31074,Jule,"Sorry, I didn't understand. Could you repeat that, please?"
+35474,TEMI,Can you check if the lights are switched off in the kitchen?
+45234,Jule,You want me to check if the fridge is open in the kitchen?
+48306,TEMI,"No. If the lights are, uh, off in the kitchen."
+54464,Jule,Apologies. You want me to check if the kitchen light is switched off?
+58368,TEMI,Yes.
+63784,Jule,"Okay, I will check."
+126140,UNIDENTIFIED,M.
+132404,Jule,I am back. I just checked.
+137364,TEMI,And are they off or on?
+142084,Jule,The kitchen light is switched off. Was that the information you were looking for?
+146572,TEMI,Yes. Thank you.
+149564,Jule,You're welcome.
+153284,TEMI,"Hey, Tammy. Um, can you get the book from."
+155888,Jule,Is there anything else I can do?
+158384,TEMI,"Can you get the book from the kitchen, please?"
+167224,Jule,Do you want me to get the book or just check if there is a book in the kitchen?
+170816,TEMI,"No. Get it, please."
+177304,Jule,"Sorry, I didn't understand. Could you repeat that, please?"
+181248,TEMI,Can you bring me the book from the kitchen?
+189224,Jule,So you want me to get a book from the kitchen?
+191648,TEMI,Yes.
+201904,Jule,Okay. I will get a book from the kitchen.
+206604,UNIDENTIFIED,It.
+231300,TEMI,M.
+254304,Jule,There are two books in the kitchen. One about statistics and one about robots. Which one do you want?
+263374,TEMI,The one about robots.
+266574,Jule,You want me to bring you the book about robots? Is that correct?
+269894,TEMI,"Yes, please."
+275134,Jule,Okay. I give you the robots book.
+284634,UNIDENTIFIED,It.
+325574,Jule,I got you a book. Is this the right one?
+329294,TEMI,Can you turn around so I can see?
+337154,Jule,Sure. In which direction?
+340074,TEMI,Whatever you prefer.
+348154,Jule,I prefer a 360.
+352280,UNIDENTIFIED,M.
+366024,Jule,How was that?
+367192,TEMI,"It's the wrong book, actually."
+376784,Jule,"Oh, I am sorry. What book do you want the book about M. Robots."
+381960,TEMI,Can you go there and change it?
+387684,Jule,Sure. I am on my way.
+390140,TEMI,Thank you. M.
+441444,Jule,I took the other book from the kitchen. Is this the right book?
+445348,TEMI,"Yes, that's the correct book."
+450324,Jule,Do I need to bring back the other book?
+454684,TEMI,"No, it's fine."
+463364,Jule,Okay. Is there anything else I can do?
+467194,TEMI,"No, thank you."

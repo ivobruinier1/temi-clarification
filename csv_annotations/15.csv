@@ -1,0 +1,65 @@
+start (in ms),speaker,text,clarification turn,clarification type,clarification turn,clarification type,turn agreement,type agreement,clarification text
+760,Participant,hey temi could you please come here so i can scan you,,,,,,,
+12054,TEMI,sure i am on my way ((temi comes to participant)) (11.2),,,,,,,
+29871,TEMI,hello {participant} how can i assist you,,,,,,,
+31514,Participant,could you please turn around so i can see your back,,,,,,,
+41634,TEMI,do you want me to turn the volume up or down,i,Acoustic issue,i,Acoustic issue,i,Confirmation before action ,do you want me to turn the volume up or down
+44554,Participant,i want you to turn around yourself so i can see the back of you,f,Acoustic issue,f,Acoustic issue,f,Confirmation before action ,i want you to turn around yourself so i can see the back of you
+53334,TEMI,why do you want me to turn around,i,Intention,i,Intention,i,Evaluating intention,why do you want me to turn around
+55302,Participant,theres a qr code sticker on your back and i need to scan it could you please do that,f,Intention,f,Intention,f,Evaluating intention,theres a qr code sticker on your back and i need to scan it
+63774,TEMI,okay in which direction do you want to engage in a rotational realignment,i,Request more information,i,Request more information,i,Request more information,okay in which direction do you want to engage in a rotational realignment
+70174,Participant,just please rotate right side 90 degrees,f,Request more information,f,Request more information,f,Request more information,just please rotate right side 90 degrees
+79034,TEMI,so you were saying i should rotate to the right,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,so you were saying i should rotate to the right
+83754,Participant,could you repeat please i couldnt get this one,i,Acoustic issue,i,Repeating the request/information,i,Request for repetition,could you repeat please i couldnt get this one
+87274,TEMI,so you were saying i should rotate to the right,f,Acoustic issue,f,Repeating the request/information,f,Request for repetition,so you were saying i should rotate to the right
+89730,Participant,yeah rotate to the right,f,Acoustic issue,f,Repeating the request/information,f,Request for repetition,yeah rotate to the right
+94594,TEMI,okay ((temi turns around)) (10.0),,,,,,,
+104494,Participant,now stop,,,,,,,
+120512,Participant,could you please do it one one more time but stop in the in the middle of it,,,,,,,
+122574,TEMI,i rotated myself three hundred and sixty degrees how was that,i,Request more information,i,Request more information,i,Confirmation after action,i rotated myself three hundred and sixty degrees how was that
+127574,Participant,amazing but i want you to rotate one hundred and eighty degrees now,f,Request more information,f,Request more information,f,Confirmation after action,amazing but i want you to rotate one hundred and eighty degrees now
+133784,TEMI,okay ((temi turns around)) (14.0),,,f,Request more information,f,Confirmation after action,okay
+152048,TEMI,i rotated one hundred and eighty degrees is that what you wanted,i,Request more information,i,Request more information,i,Confirmation after action,i rotated one hundred and eighty degrees is that what you wanted
+153992,Participant,thats exactly what i wanted thank you so much ,f,Request more information,f,Request more information,f,Confirmation after action,thats exactly what i wanted
+155352,TEMI,youre welcome,,,,,,,
+160544,Participant,if i should click the link,,,,,,,
+161678,Facilitator,its not working,,,,,,,
+162309,Participant,okay so thats it,,,,,,,
+163891,Facilitator,yes,,,,,,,
+165556,Participant,alright,,,,,,,
+176424,Participant,hey temi,,,,,,,
+177480,TEMI,hey {participant} can i do anything else for you,,,,,,,
+180120,Participant,yes actually uh i need you to go to the kitchen and check for me if the lights is are on or off,,,,,,,
+192414,TEMI,sorry i didnt understand could you repeat that please,i,Acoustic issue,i,Acoustic issue,i,Acoustic issue,i didnt understand could you repeat that
+196134,Participant,of course i want you to go to the kitchen and check if the light is on or not,f,Acoustic issue,f,Acoustic issue,f,Acoustic issue,of course i want you to go to the kitchen and check if the light is on or not
+204614,TEMI,do you want me to check if the oven light is switched off,i,Acoustic issue,i,Acoustic issue,i,Confirmation before action ,do you want me to check if the oven light is switched off
+207694,Participant,yes in the kitchen,f,Acoustic issue,f,Acoustic issue,f,Confirmation before action ,yes in the kitchen
+216354,TEMI,okay i will check that,f,Acoustic issue,f,Acoustic issue,f,Confirmation before action ,okay i will check that
+218802,Participant,thank you ((temi goes to the kitchen)) (54.0),,,,,,,
+273578,TEMI,i just checked in the kitchen the fridge is closed is that the information that you wanted to know,i,Request more information,i,Request more information,i,Confirmation after action,i just checked in the kitchen the fridge is closed is that the information that you wanted to know
+280260,Participant,not exactly i wanted you to check the lights if they are on or off,f,Request more information,f,Request more information,f,Confirmation after action,not exactly i wanted you to check the lights if they are on or off
+294014,TEMI,do you want me to check if the light is on,i,Repeating the request/information,i,Repeating the request/information,i,Confirmation before action ,do you want me to check if the light is on
+296430,Participant,yes please please go to the kitchen and check that,f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,yes please please go to the kitchen and check that
+303854,TEMI,okay i will check if the light is on ((temi goes to the kitchen)) (58.0),f,Repeating the request/information,f,Repeating the request/information,f,Confirmation before action ,okay i will check if the light is on
+316194,Participant,can i record this,,,,,,,
+317234,Facilitator,you can record it afterwards  ,,,,,,,
+319154,TEMI,the kitchen light is switched off was that the information you were looking for,i,Request more information,i,Request more information,i,Confirmation after action,the kitchen light is switched off was that the information you were looking for
+369444,Participant,yes temi thank you so much,f,Request more information,f,Request more information,f,Confirmation after action,yes
+372244,TEMI,no problem,,,,,,,
+382451,TEMI,hey {participant} can i do anything else for you,,,,,,,
+383220,Participant,yes theres one more task i want you to do can you go to the kitchen and get the book for me,,,,,,,
+403504,TEMI,do you want me to get the book or check if there is a book in the kitchen,i,Request more information,i,Request more information,i,Request more information,do you want me to get the book or check if there is a book in the kitchen
+407984,Participant,i want you to get the book from the kitchen please,f,Request more information,f,Request more information,f,Request more information,i want you to get the book from the kitchen
+416584,TEMI,okay i will bring you a book ((temi goes to the kitchen)) (56.5),f,Request more information,,,f,Request more information,okay i will bring you a book
+418794,Participant,thank you (12.0) so cute,,,,,,,
+435714,Facilitator,he has a brother,,,,,,,
+437354,Participant,oh theres another one which one is nicer though and when i finish with the task,,,,,,,
+450422,Facilitator,well get there,,,,,,,
+451422,Participant,okay you can,,,,,,,
+478114,TEMI,there are two books in the kitchen one about statistics and one about robots which one do you want,i,Request more information,i,Request more information,i,Request more information,there are two books in the kitchen one about statistics and one about robots which one do you want
+485954,Participant,i dont know can you can you bring me both of them,f,Request more information,f,Request more information,f,Request more information,i dont know can you can you bring me both of them
+494674,TEMI,sure i give you both books,,,,,,,
+497514,Participant,thank you ((temi goes to the kitchen)) (63.0),,,,,,,
+521893,Participant,i mean this is the future,,,,,,,
+522414,TEMI,i got you both books is that what you wanted,i,Request more information,i,Request more information,i,Confirmation after action,i got you both books is that what you wanted
+564882,Participant,yes temi thank you so much,f,Request more information,f,Request more information,f,Confirmation after action,yes 

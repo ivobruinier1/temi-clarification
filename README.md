@@ -1,3 +1,4 @@
+
 # Human-Robot Interaction Transcripts Dataset
 
 This repository contains a dataset of transcripts from human-robot interactions collected in a Wizard of Oz setting. The interactions cover three different scenarios and have been annotated for clarification types with spans.
@@ -35,4 +36,4 @@ Niels Top \
 Adelina Dinu \
 Joris Ruitenbeek \
 Vivien ter Hell \
-Dennis van Thulden
+
